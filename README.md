@@ -4,6 +4,9 @@ Digitales de **Desafío Latam**, enfocado en la implementación del
 manejo de estado global en aplicaciones web utilizando **React
 Context API**.
 
+* Link del proyecto: https://hito-6-pizzeria-mamma-mia-steel.vercel.app/
+
+
 ---
 ## 📌 Descripción del Proyecto
 
